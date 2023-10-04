@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	font-family:Arial, Helvetica,sans-serif;
+	background-color:#faf8f0fb;
+}
+
+.hero{
+	background-color: #945121fb;
+	background-image: url("desertPainting.png");
+	background-repeat: no-repeat;
+	background-position:center;
+	color:white;
+	padding-top: 25%;
+}
+.header{
+	text-decoration: none;
+	margin: 0;
+	font-family: Arial, Helvetica,sans-serif;
+	background-color: #e5e4dffb;
+	padding-top:3%;
+	padding-bottom: 5%;
+	padding-left:3%;
+		
+}
+.btn{
+	font-family: "montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color:#e5e4dffb;
+	text-decoration:none;
+	
+}
+a, u {
+  text-decoration: none;
+}
