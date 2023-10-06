@@ -38,4 +38,23 @@ a, u {
 	padding-left:10%;
 	padding-right:10%;
 	font-size: 16px;
+}h2{
+	margin-top:auto;
+	margin-bottom:100px;
+	margin-right: 10%;
+	margin-left:10%;
+	text-indent: 50px;
+}
+.image1{
+	display:block;
+	content:url("jdannphoto.png");
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+}
+h1{
+	text-align:center;
+
+}h3{
+	font-size:30px;
 }
