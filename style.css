@@ -45,6 +45,9 @@ a, u {
 	margin-left:10%;
 	text-indent: 50px;
 }
+footer{
+	padding-left:16px;
+}
 .image1{
 	display:block;
 	content:url("jdannphoto.png");
