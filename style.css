@@ -68,13 +68,7 @@ a, u {
 	margin-left:10%;
 	text-indent: 50px;
 }
-caption{
-	font-size: 125%;
-	 border: 10px solid #000000;
-	 padding-top: 0;
-	 padding-bottom:5%;
-	 margin-bottom:0;
-}
+
 footer{
 	padding-left:16px;
 }
@@ -94,6 +88,13 @@ h1{
 td{
 	 padding:10px;
 	 text-align: center;
+}
+caption{
+	font-size: 125%;
+	 border: 10px solid #000000;
+	 padding-top: 0;
+	 padding-bottom:5%;
+	 margin-bottom:0;
 }
 .gallery {
   border: 1px solid #ccc;
