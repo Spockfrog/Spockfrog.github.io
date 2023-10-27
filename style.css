@@ -89,13 +89,7 @@ td{
 	 padding:10px;
 	 text-align: center;
 }
-caption{
-	font-size: 125%;
-	 border: 10px solid #000000;
-	 padding-top: 0;
-	 padding-bottom:5%;
-	 margin-bottom:0;
-}
+
 .gallery {
   border: 1px solid #ccc;
 }
